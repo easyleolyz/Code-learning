@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.class": true
+  },
+  "python.defaultInterpreterPath": "python3"
+}
